@@ -4,7 +4,7 @@
 
 To Play this Game Perform following steps on Terminal:-
 
-Step 1:- `git clone https://github.com/vikramkumarofficial/KBCPyGame.git`
+Step 1:- `https://github.com/KirtiMoily/KBC-Game.git`
 
 Step 2:- Install dependencies
 
